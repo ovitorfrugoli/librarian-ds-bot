@@ -6,4 +6,4 @@ bot.registry.registerGroup('enchantments', 'Enchantments');
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands");
 
-bot.login('NjgyNDgxMDQ3MTYxNjY3NTg0.XlglcA.E19d9b1AGHMSsIpfxWAZLwhfvVQ');
+bot.login('NjgyNDgxMDQ3MTYxNjY3NTg0.Xlgndg.lX8Vu_hwwq-hgvwbePD_Wtus_I0');
