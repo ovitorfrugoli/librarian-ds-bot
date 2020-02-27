@@ -1,0 +1,18 @@
+const commando = require('discord.js-commando');
+
+class AuthorCommand extends commando.Command {
+    constructor(client) {
+        super(client, {
+            name: 'map',
+            group: 'useful',
+            memberName: 'map',
+            description: 'Exibe o mapeamento da sala de encantamentos.'
+        });
+    }
+
+    async run(message, args) {
+        message.reply('Aguardando a boa vontade do Guilherme me ajudar.\n')
+    }
+}
+
+module.exports = AuthorCommand;
