@@ -17,7 +17,7 @@ class SmiteEnchant extends commando.Command {
             *Aplicado em:* Espadas e Machados.\n\
             *Level máximo:* 5.\n\
             *Conflitos:* Bane of Arthropods e Sharpness.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $5000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

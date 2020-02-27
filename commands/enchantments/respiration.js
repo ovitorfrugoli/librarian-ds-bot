@@ -17,7 +17,7 @@ class RespirationEnchant extends commando.Command {
             *Aplicado em:* Capacetes e Cascos.\n\
             *Level máximo:* 3.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $8000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

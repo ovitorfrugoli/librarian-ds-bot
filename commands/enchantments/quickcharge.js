@@ -17,7 +17,7 @@ class QuickChargeEnchant extends commando.Command {
             *Aplicado em:* Crossbow.\n\
             *Level máximo:* 3.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $5000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

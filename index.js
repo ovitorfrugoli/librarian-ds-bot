@@ -8,7 +8,3 @@ bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands");
 
 bot.login(token);
-
-bot.on("message", async => {
-    bot.user.SetActivity("Use: !ajuda", {type: "WATCHING"});
-});

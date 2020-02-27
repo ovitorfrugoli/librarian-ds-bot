@@ -17,7 +17,7 @@ class ProtectionEnchant extends commando.Command {
             *Aplicado em:* Armaduras.\n\
             *Level máximo:* 4.\n\
             *Conflitos:* Qualquer outro tipo de proteção.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $15000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

@@ -17,7 +17,7 @@ class LoyaltyEnchant extends commando.Command {
             *Aplicado em:* Tridente.\n\
             *Level máximo:* 3.\n\
             *Conflitos:* Riptide.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $3000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

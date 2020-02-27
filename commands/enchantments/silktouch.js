@@ -17,7 +17,7 @@ class SilkTouchEnchant extends commando.Command {
             *Aplicado em:* Ferramentas.\n\
             *Level máximo:* 1.\n\
             *Conflitos:* Fortune, Looting e Luck of the Sea.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $7000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

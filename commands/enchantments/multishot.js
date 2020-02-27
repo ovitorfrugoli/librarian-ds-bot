@@ -17,7 +17,7 @@ class MultishotEnchant extends commando.Command {
             *Aplicado em:* Crossbow.\n\
             *Level máximo:* 1.\n\
             *Conflitos:* Piercing\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $10000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

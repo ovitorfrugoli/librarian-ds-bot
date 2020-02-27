@@ -17,7 +17,7 @@ class UnbreakingEnchant extends commando.Command {
             *Aplicado em:* Praticamente tudo.\n\
             *Level máximo:* 3.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $12000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

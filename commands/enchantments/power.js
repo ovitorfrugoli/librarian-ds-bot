@@ -17,7 +17,7 @@ class PowerEnchant extends commando.Command {
             *Aplicado em:* Arco.\n\
             *Level máximo:* 5.\n\
             *Conflitos:*\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $6500.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

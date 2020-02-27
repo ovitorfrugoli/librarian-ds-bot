@@ -17,7 +17,7 @@ class SharpnessEnchant extends commando.Command {
             *Aplicado em:* Espadas e Machados.\n\
             *Level máximo:* 5.\n\
             *Conflitos:* Bane of Arthropods e Loyalty.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $15000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

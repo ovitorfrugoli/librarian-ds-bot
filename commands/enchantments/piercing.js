@@ -17,7 +17,7 @@ class PiercingEnchant extends commando.Command {
             *Aplicado em:* Crossbow.\n\
             *Level máximo:* 4.\n\
             *Conflitos:* Multishot\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $15000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

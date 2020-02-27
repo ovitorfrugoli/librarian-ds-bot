@@ -17,7 +17,7 @@ class FrostWalkerEnchant extends commando.Command {
             *Aplicado em:* Botas.\n\
             *Level máximo:* 2.\n\
             *Conflitos:* Depth Strider.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $10000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

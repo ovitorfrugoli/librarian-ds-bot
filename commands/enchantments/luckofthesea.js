@@ -17,7 +17,7 @@ class LuckoftheSeaEnchant extends commando.Command {
             *Aplicado em:* Vara de pesca.\n\
             *Level máximo:* 3.\n\
             *Conflitos:* Silk touch.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $7000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

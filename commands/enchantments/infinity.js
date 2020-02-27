@@ -17,7 +17,7 @@ class InfinityEnchant extends commando.Command {
             *Aplicado em:* Arcos.\n\
             *Level máximo:* 1.\n\
             *Conflitos:* Mending.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $5000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

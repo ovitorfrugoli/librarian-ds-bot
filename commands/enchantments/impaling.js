@@ -17,7 +17,7 @@ class ImpalingEnchant extends commando.Command {
             *Aplicado em:* Tridente.\n\
             *Level máximo:* 5.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $12000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

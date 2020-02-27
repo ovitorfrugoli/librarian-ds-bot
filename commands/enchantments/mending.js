@@ -17,7 +17,7 @@ class MendingEnchant extends commando.Command {
             *Aplicado em:* Praticamente tudo.\n\
             *Level máximo:* 1.\n\
             *Conflitos:* Infinity\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $8000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

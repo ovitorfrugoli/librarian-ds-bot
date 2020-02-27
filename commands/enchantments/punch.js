@@ -17,7 +17,7 @@ class PunchEnchant extends commando.Command {
             *Aplicado em:* Arcos.\n\
             *Level máximo:* 2.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $5500.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }
