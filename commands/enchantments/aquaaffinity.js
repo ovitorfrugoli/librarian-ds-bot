@@ -16,7 +16,7 @@ class AquaAffinityEnchant extends commando.Command {
             *Tipo de encantamento:* Vanilla\n\
             *Aplicado em:* Capacete e Casco de Tartaruga.\n\
             *Level máximo:* 1.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $7000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

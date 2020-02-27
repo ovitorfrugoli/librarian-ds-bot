@@ -17,7 +17,7 @@ class FlameEnchant extends commando.Command {
             *Aplicado em:* Arcos\n\
             *Level máximo:* 1.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $7000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

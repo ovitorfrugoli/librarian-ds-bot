@@ -17,7 +17,7 @@ class FeatherFallingEnchant extends commando.Command {
             *Aplicado em:* Botas\n\
             *Level máximo:* 4.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $35000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

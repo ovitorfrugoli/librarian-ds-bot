@@ -6,8 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node .",
-    "production": "NODE_ENV=production&&npm start",
-    "development": "set NODE_ENV=development&&npm start"
   },,
   "author": "Vithinn",
   "license": "ISC",

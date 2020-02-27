@@ -17,7 +17,7 @@ class FortuneEnchant extends commando.Command {
             *Aplicado em:* Ferramentas\n\
             *Level máximo:* 3.\n\
             *Conflitos:* Silk Touch.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $10000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

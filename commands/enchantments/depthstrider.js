@@ -17,7 +17,7 @@ class DepthStriderEnchant extends commando.Command {
             *Aplicado em:* Botas.\n\
             *Level máximo:* 3.\n\
             *Conflitos:* Frost Walker\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $15000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

@@ -17,7 +17,7 @@ class EfficiencyEnchant extends commando.Command {
             *Aplicado em:* Ferramentas e tesouras.\n\
             *Level máximo:* 5.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $13000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

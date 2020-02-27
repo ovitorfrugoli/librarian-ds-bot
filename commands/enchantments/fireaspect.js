@@ -17,7 +17,7 @@ class FireAspectEnchant extends commando.Command {
             *Aplicado em:* Espadas\n\
             *Level máximo:* 2.\n\
             *Conflitos:* \n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $10000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

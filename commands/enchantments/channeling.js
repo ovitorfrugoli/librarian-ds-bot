@@ -17,7 +17,7 @@ class ChannelingEnchant extends commando.Command {
             *Aplicado em:* Tridente.\n\
             *Level máximo:* 1.\n\
             *Conflitos:* Riptide.\n\
-            *Valor de venda:* Indefinido.\n\
+            *Valor de venda:* $7000.\n\
             *Mapeamento:* Indefinido.\n')
     }
 }

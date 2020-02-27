@@ -16,7 +16,7 @@ class BindingEnchant extends commando.Command {
             *Tipo de encantamento:* Vanilla\n\
             *Aplicado em:* Armaduras, Elytra.\n\
             *Level máximo:* 1.\n\
-            *Conflitos:* \n\
+            *Conflitos:* $0\n\
             *Valor de venda:* Indefinido.\n\
             *Mapeamento:* Indefinido.\n')
     }
