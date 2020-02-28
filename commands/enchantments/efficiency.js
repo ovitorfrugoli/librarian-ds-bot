@@ -18,7 +18,7 @@ class EfficiencyEnchant extends commando.Command {
             *Level máximo:* 5.\n\
             *Conflitos:* \n\
             *Valor de venda:* $13000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Azul, Coluna 2, Linha 4.\n')
     }
 }
 

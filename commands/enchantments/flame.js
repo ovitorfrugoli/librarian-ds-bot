@@ -18,7 +18,7 @@ class FlameEnchant extends commando.Command {
             *Level máximo:* 1.\n\
             *Conflitos:* \n\
             *Valor de venda:* $7000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Roxa, Coluna 2, Linha 5.\n')
     }
 }
 

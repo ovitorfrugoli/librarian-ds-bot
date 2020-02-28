@@ -18,7 +18,7 @@ class FireProtectionEnchant extends commando.Command {
             *Level máximo:* 4.\n\
             *Conflitos:* Todo outro tipo de proteção.\n\
             *Valor de venda:* $5000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Azul, Coluna 3, Linha 5.\n')
     }
 }
 

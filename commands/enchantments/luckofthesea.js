@@ -18,7 +18,7 @@ class LuckoftheSeaEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* Silk touch.\n\
             *Valor de venda:* $7000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Laranja, Coluna 3, Linha 2.\n')
     }
 }
 

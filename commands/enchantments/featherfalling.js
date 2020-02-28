@@ -18,7 +18,7 @@ class FeatherFallingEnchant extends commando.Command {
             *Level máximo:* 4.\n\
             *Conflitos:* \n\
             *Valor de venda:* $35000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Azul, Coluna 3, Linha 2.\n')
     }
 }
 

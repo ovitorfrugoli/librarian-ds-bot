@@ -18,7 +18,7 @@ class SweepingEdgeEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* \n\
             *Valor de venda:* $12000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Vermelha, Coluna 3, Linha 3.\n')
     }
 }
 

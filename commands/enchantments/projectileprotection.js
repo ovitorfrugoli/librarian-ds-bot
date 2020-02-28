@@ -18,7 +18,7 @@ class ProjectileProtectionEnchant extends commando.Command {
             *Level máximo:* 4.\n\
             *Conflitos:* Qualquer outro tipo de proteção\n\
             *Valor de venda:* $5000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Laranja, Coluna 1, Linha 2.\n')
     }
 }
 

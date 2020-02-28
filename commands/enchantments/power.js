@@ -18,7 +18,7 @@ class PowerEnchant extends commando.Command {
             *Level máximo:* 5.\n\
             *Conflitos:*\n\
             *Valor de venda:* $6500.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Roxa, Coluna 3, Linha 3.\n')
     }
 }
 

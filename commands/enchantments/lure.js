@@ -18,7 +18,7 @@ class LureEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* \n\
             *Valor de venda:* $7000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Azul, Coluna 2, Linha 2.\n')
     }
 }
 

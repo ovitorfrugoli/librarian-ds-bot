@@ -18,7 +18,7 @@ class ImpalingEnchant extends commando.Command {
             *Level máximo:* 5.\n\
             *Conflitos:* \n\
             *Valor de venda:* $12000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Vermelho, Coluna 4, Linha 5.\n')
     }
 }
 

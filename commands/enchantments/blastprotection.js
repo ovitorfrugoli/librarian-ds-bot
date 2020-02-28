@@ -18,7 +18,7 @@ class BlastProtectionEnchant extends commando.Command {
             *Level máximo:* 4.\n\
             *Conflitos:* Todo outro tipo de proteção.\n\
             *Valor de venda:* $5000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Vermelha, Coluna 4, Linha 2.\n')
     }
 }
 

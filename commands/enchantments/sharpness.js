@@ -18,7 +18,7 @@ class SharpnessEnchant extends commando.Command {
             *Level máximo:* 5.\n\
             *Conflitos:* Bane of Arthropods e Loyalty.\n\
             *Valor de venda:* $15000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Azul, Coluna 2, Linha 5.\n')
     }
 }
 

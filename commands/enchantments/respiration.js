@@ -18,7 +18,7 @@ class RespirationEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* \n\
             *Valor de venda:* $8000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Laranja, Coluna 1, Linha 3.\n')
     }
 }
 

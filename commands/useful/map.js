@@ -11,7 +11,10 @@ class AuthorCommand extends commando.Command {
     }
 
     async run(message, args) {
-        message.reply('Aguardando a boa vontade do Guilherme me ajudar.\n')
+        message.reply('Atente-se as lãs no chão da sala de encantamentos.\n\
+        O mapeamento estará localizado no `!<encantamento>`\n\
+        e será dado por: `Prateleira X, Coluna Y, Linha Z`\n\
+        da esquerda para a direita, de cima para baixo, semelhante à uma matriz.')
     }
 }
 

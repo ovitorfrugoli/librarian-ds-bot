@@ -18,7 +18,7 @@ class FortuneEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* Silk Touch.\n\
             *Valor de venda:* $10000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Vermelha, Coluna 2, Linha 5.\n')
     }
 }
 

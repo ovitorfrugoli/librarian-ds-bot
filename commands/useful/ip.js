@@ -11,7 +11,7 @@ class IpCommand extends commando.Command {
     }
 
     async run(message, args) {
-        message.reply('`jogar.craftit.com.br:25565`\n')
+        message.reply('O clan p4rlGaming atualmente está jogando em: `jogar.craftit.com.br:25565`\n')
     }
 }
 

@@ -18,7 +18,7 @@ class ProtectionEnchant extends commando.Command {
             *Level máximo:* 4.\n\
             *Conflitos:* Qualquer outro tipo de proteção.\n\
             *Valor de venda:* $15000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Vermelha, Coluna 3, Linha 4.\n')
     }
 }
 

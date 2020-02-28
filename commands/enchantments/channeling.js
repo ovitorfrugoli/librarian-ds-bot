@@ -18,7 +18,7 @@ class ChannelingEnchant extends commando.Command {
             *Level máximo:* 1.\n\
             *Conflitos:* Riptide.\n\
             *Valor de venda:* $7000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Roxa, Coluna 3, Linha 4.\n')
     }
 }
 

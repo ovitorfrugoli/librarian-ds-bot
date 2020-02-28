@@ -18,7 +18,7 @@ class DepthStriderEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* Frost Walker\n\
             *Valor de venda:* $15000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Roxa, Coluna 3, Linha 5.\n')
     }
 }
 

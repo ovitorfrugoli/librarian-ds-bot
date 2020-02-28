@@ -18,7 +18,7 @@ class PiercingEnchant extends commando.Command {
             *Level máximo:* 4.\n\
             *Conflitos:* Multishot\n\
             *Valor de venda:* $15000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Vermelha, Coluna 2, Linha 3.\n')
     }
 }
 

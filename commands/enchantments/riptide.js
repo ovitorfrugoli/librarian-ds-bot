@@ -18,7 +18,7 @@ class RiptideEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* Channeling e Loyalty.\n\
             *Valor de venda:* $7000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Azul, Coluna 1, Linha 4.\n')
     }
 }
 

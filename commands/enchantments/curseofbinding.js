@@ -16,9 +16,9 @@ class BindingEnchant extends commando.Command {
             *Tipo de encantamento:* Vanilla\n\
             *Aplicado em:* Armaduras, Elytra.\n\
             *Level máximo:* 1.\n\
-            *Conflitos:* $0\n\
-            *Valor de venda:* Indefinido.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Conflitos:* \n\
+            *Valor de venda:* $0\n\
+            *Mapeamento:* Prateleira Roxa, Coluna 4, Linha 2.\n')
     }
 }
 

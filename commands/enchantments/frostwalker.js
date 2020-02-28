@@ -18,7 +18,7 @@ class FrostWalkerEnchant extends commando.Command {
             *Level máximo:* 2.\n\
             *Conflitos:* Depth Strider.\n\
             *Valor de venda:* $10000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Laranja, Coluna 3, Linha 1.\n')
     }
 }
 

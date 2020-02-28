@@ -18,7 +18,7 @@ class MultishotEnchant extends commando.Command {
             *Level máximo:* 1.\n\
             *Conflitos:* Piercing\n\
             *Valor de venda:* $10000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Laranja, Coluna 3, Linha 5.\n')
     }
 }
 

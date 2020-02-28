@@ -18,7 +18,7 @@ class LootingEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* Silk Touch.\n\
             *Valor de venda:* $10000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Azul, Coluna 1, Linha 2.\n')
     }
 }
 

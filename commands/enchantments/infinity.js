@@ -18,7 +18,7 @@ class InfinityEnchant extends commando.Command {
             *Level máximo:* 1.\n\
             *Conflitos:* Mending.\n\
             *Valor de venda:* $5000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Roxa, Coluna 4, Linha 3.\n')
     }
 }
 

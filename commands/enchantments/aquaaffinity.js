@@ -17,7 +17,7 @@ class AquaAffinityEnchant extends commando.Command {
             *Aplicado em:* Capacete e Casco de Tartaruga.\n\
             *Level máximo:* 1.\n\
             *Valor de venda:* $7000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Vermelha, Coluna 3, Linha 5.\n')
     }
 }
 

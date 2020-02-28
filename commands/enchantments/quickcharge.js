@@ -18,7 +18,7 @@ class QuickChargeEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* \n\
             *Valor de venda:* $5000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Azul, Coluna 2, Linha 3.\n')
     }
 }
 

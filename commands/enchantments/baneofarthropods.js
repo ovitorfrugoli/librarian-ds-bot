@@ -18,7 +18,7 @@ class BaneOfArthropodsEnchant extends commando.Command {
             *Level máximo:* 5.\n\
             *Conflitos:* Smite e Sharpness.\n\
             *Valor de venda:* $2000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Vermelha, Coluna 4, Linha 3.\n')
     }
 }
 

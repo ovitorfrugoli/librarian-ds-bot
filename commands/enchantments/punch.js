@@ -18,7 +18,7 @@ class PunchEnchant extends commando.Command {
             *Level máximo:* 2.\n\
             *Conflitos:* \n\
             *Valor de venda:* $5500.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Roxa, Coluna 2, Linha 3.\n')
     }
 }
 

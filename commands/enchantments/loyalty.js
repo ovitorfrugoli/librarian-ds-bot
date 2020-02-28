@@ -18,7 +18,7 @@ class LoyaltyEnchant extends commando.Command {
             *Level máximo:* 3.\n\
             *Conflitos:* Riptide.\n\
             *Valor de venda:* $3000.\n\
-            *Mapeamento:* Indefinido.\n')
+            *Mapeamento:* Prateleira Roxa, Coluna 2, Linha 2.\n')
     }
 }
 
