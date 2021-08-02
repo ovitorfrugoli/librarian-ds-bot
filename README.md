@@ -15,6 +15,4 @@ lista todos os encantamentos do Minecraft, juntamente ao plugin zEnchantments, s
 
 #### Contato
 
-Simples e prático, envie uma mensagem no discord *Vithinn#1561*, ou simplesmente entre em nosso servidor!
-https://discord.gg/yqYckZp
-
+Discord: Vitor Santos#0001
